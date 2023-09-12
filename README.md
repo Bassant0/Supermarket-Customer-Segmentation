@@ -34,6 +34,6 @@ The project employs K-means, K-medoids, and DBSCAN algorithms to segment custome
 
 ## Results
 
-Visualization tools, like t-SNE and PCA, are used to visualize the high-dimensional clustered data in a 2D space.
+Visualization tools, like t-SNE , are used to visualize the high-dimensional clustered data in a 2D space.
 
 
