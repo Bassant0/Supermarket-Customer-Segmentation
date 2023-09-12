@@ -14,7 +14,7 @@ Unravel the hidden stories of your customers! This project dives deep into custo
 
 Using detailed customer data from a supermarket, this project:
 - Analyzes various features, such as `Age`, `Income`, `Occupation`, etc.
-- Employs clustering techniques (`K-means` & `K-medoids`) to segment customers.
+- Uses clustering techniques (K-means, K-medoids, and DBSCAN) for effective customer segmentation
 - Provides actionable insights to maximize ROI and enhance the shopping experience.
 
 ## Data Exploration
@@ -30,7 +30,7 @@ Data cleaning steps include:
 
 ## Modeling
 
-Using `K-means` & `K-medoids` algorithms, the project segments customers effectively. A Silhouette Score of **0.6** underscores the precision of these segments.
+The project employs K-means, K-medoids, and DBSCAN algorithms to segment customers. With a high Silhouette Score, these segments are both precise and insightful.
 
 ## Results
 
